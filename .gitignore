@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 # Temp files
 TEMP/
+
+# BP Assist plugin
+BlueprintAssist/
